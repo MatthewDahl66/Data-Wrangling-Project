@@ -1,6 +1,8 @@
 # Data-Wrangling-Project
 
-This is a starting-point template for data wrangling projects.
+This is a starting-point template for our data wrangling project
+
+This project was completed by Matthew Dahl, Owen Parker, and Cooper Kellenberger
 
 ## Folder Structure
 
