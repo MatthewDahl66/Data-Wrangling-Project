@@ -1,4 +1,4 @@
-Questions​
+# Questions​
 
 Do teams perform better when they heavily lean towards passing offense, rushing offense, or a mix
 of the two (balanced approach) ​
@@ -22,7 +22,7 @@ Machine Learning​
 
 Finding a direct correlation between team play style and team success​
 
-Research Question #1: How do teams that spend the most money in free agencies perform season to season?
+# Research Question #1: How do teams that spend the most money in free agencies perform season to season?
 
 We did a test to see if we can predict win/loss percentage, based off of contract money spent and this
 was our result. ​
@@ -48,7 +48,7 @@ this relationship might not be meaningful or statistically significant.​
 - No Predictive Power: Given the results, free agent spending doesn't appear to have a strong predictive
 power for team performance in terms of win/loss percentage​
 
-​Research Question 2: Is there a correlation between penalties committed by a team and its overall winning percentage?
+# ​Research Question 2: Is there a correlation between penalties committed by a team and its overall winning percentage?
 
 We performed a univariate analysis on the number of penalties and found the following data: Mean
 Penalties: 101.49, Median Penalties: 102.0, Standard Deviation of Penalties: 16.15, Min Penalties: 55,
