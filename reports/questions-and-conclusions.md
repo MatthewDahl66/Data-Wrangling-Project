@@ -13,7 +13,7 @@ Does coaching play more of an impact than free agent spending?​
 Does the amount of money spent in certain positions make more of an impact than others(QB vs.
 K, etc.)?​
 
-Challenges​
+# Challenges​
 
 Correlation between penalties and winning percentage in specific categories may be hard to prove
 due to lack of records and/or other factors coming into play (opponent strength of schedule)​
