@@ -1,0 +1,406 @@
+year,team,playoff
+2011,Carolina Panthers,1
+2011,Seattle Seahawks,1
+2011,New York Jets,1
+2011,Arizona Cardinals,0
+2011,New York Giants,0
+2011,Baltimore Ravens,1
+2011,San Francisco 49ers,0
+2011,Atlanta Falcons,0
+2011,Dallas Cowboys,1
+2011,Chicago Bears,1
+2011,Detroit Lions,1
+2011,Indianapolis Colts,1
+2011,Cincinnati Bengals,1
+2011,San Diego Chargers,1
+2011,St. Louis Rams,0
+2011,Oakland Raiders,0
+2011,Denver Broncos,1
+2011,Cleveland Browns,1
+2011,Minnesota Vikings,0
+2011,Tennessee Titans,1
+2011,New England Patriots,0
+2011,Miami Dolphins,0
+2011,Green Bay Packers,0
+2011,Pittsburgh Steelers,0
+2011,Kansas City Chiefs,1
+2011,Buffalo Bills,0
+2011,New Orleans Saints,0
+2011,Jacksonville Jaguars,1
+2011,Houston Texans,1
+2011,Tampa Bay Buccaneers,0
+2011,Philadelphia Eagles,1
+2012,Carolina Panthers,0
+2012,Seattle Seahawks,1
+2012,New York Jets,1
+2012,Arizona Cardinals,1
+2012,New York Giants,0
+2012,Baltimore Ravens,0
+2012,San Francisco 49ers,1
+2012,Atlanta Falcons,1
+2012,Dallas Cowboys,1
+2012,Chicago Bears,1
+2012,Detroit Lions,0
+2012,Indianapolis Colts,0
+2012,Cincinnati Bengals,0
+2012,San Diego Chargers,0
+2012,St. Louis Rams,0
+2012,Oakland Raiders,1
+2012,Denver Broncos,1
+2012,Cleveland Browns,1
+2012,Minnesota Vikings,1
+2012,Tennessee Titans,0
+2012,New England Patriots,1
+2012,Miami Dolphins,0
+2012,Green Bay Packers,0
+2012,Pittsburgh Steelers,0
+2012,Kansas City Chiefs,1
+2012,Buffalo Bills,1
+2012,New Orleans Saints,0
+2012,Jacksonville Jaguars,1
+2012,Houston Texans,0
+2012,Tampa Bay Buccaneers,0
+2012,Philadelphia Eagles,1
+2013,Carolina Panthers,0
+2013,Seattle Seahawks,1
+2013,New York Jets,0
+2013,Arizona Cardinals,0
+2013,New York Giants,0
+2013,Baltimore Ravens,0
+2013,San Francisco 49ers,0
+2013,Atlanta Falcons,1
+2013,Dallas Cowboys,0
+2013,Chicago Bears,0
+2013,Detroit Lions,1
+2013,Indianapolis Colts,0
+2013,Cincinnati Bengals,0
+2013,San Diego Chargers,0
+2013,St. Louis Rams,0
+2013,Oakland Raiders,0
+2013,Denver Broncos,0
+2013,Cleveland Browns,0
+2013,Minnesota Vikings,0
+2013,Tennessee Titans,0
+2013,New England Patriots,0
+2013,Miami Dolphins,0
+2013,Green Bay Packers,0
+2013,Pittsburgh Steelers,0
+2013,Kansas City Chiefs,1
+2013,Buffalo Bills,0
+2013,New Orleans Saints,1
+2013,Jacksonville Jaguars,0
+2013,Houston Texans,1
+2013,Tampa Bay Buccaneers,1
+2013,Philadelphia Eagles,1
+2014,Carolina Panthers,0
+2014,Seattle Seahawks,1
+2014,New York Jets,1
+2014,Arizona Cardinals,1
+2014,New York Giants,0
+2014,Baltimore Ravens,1
+2014,San Francisco 49ers,1
+2014,Atlanta Falcons,1
+2014,Dallas Cowboys,1
+2014,Chicago Bears,1
+2014,Detroit Lions,0
+2014,Indianapolis Colts,0
+2014,Cincinnati Bengals,0
+2014,San Diego Chargers,0
+2014,St. Louis Rams,1
+2014,Oakland Raiders,0
+2014,Denver Broncos,0
+2014,Cleveland Browns,1
+2014,Minnesota Vikings,1
+2014,Tennessee Titans,1
+2014,New England Patriots,1
+2014,Miami Dolphins,0
+2014,Green Bay Packers,1
+2014,Pittsburgh Steelers,0
+2014,Kansas City Chiefs,1
+2014,Buffalo Bills,0
+2014,New Orleans Saints,1
+2014,Jacksonville Jaguars,1
+2014,Houston Texans,0
+2014,Tampa Bay Buccaneers,1
+2014,Philadelphia Eagles,1
+2015,Carolina Panthers,1
+2015,Seattle Seahawks,1
+2015,New York Jets,0
+2015,Arizona Cardinals,1
+2015,New York Giants,0
+2015,Baltimore Ravens,1
+2015,San Francisco 49ers,0
+2015,Atlanta Falcons,0
+2015,Dallas Cowboys,0
+2015,Chicago Bears,0
+2015,Detroit Lions,1
+2015,Indianapolis Colts,0
+2015,Cincinnati Bengals,1
+2015,San Diego Chargers,1
+2015,St. Louis Rams,1
+2015,Oakland Raiders,1
+2015,Denver Broncos,1
+2015,Cleveland Browns,0
+2015,Minnesota Vikings,1
+2015,Tennessee Titans,0
+2015,New England Patriots,0
+2015,Miami Dolphins,0
+2015,Green Bay Packers,1
+2015,Pittsburgh Steelers,1
+2015,Kansas City Chiefs,0
+2015,Buffalo Bills,0
+2015,New Orleans Saints,1
+2015,Jacksonville Jaguars,0
+2015,Houston Texans,0
+2015,Tampa Bay Buccaneers,0
+2015,Philadelphia Eagles,0
+2016,Carolina Panthers,1
+2016,Seattle Seahawks,1
+2016,New York Jets,1
+2016,Arizona Cardinals,0
+2016,New York Giants,0
+2016,Baltimore Ravens,1
+2016,San Francisco 49ers,0
+2016,Atlanta Falcons,0
+2016,Dallas Cowboys,1
+2016,Chicago Bears,1
+2016,Detroit Lions,1
+2016,Indianapolis Colts,1
+2016,Cincinnati Bengals,0
+2016,San Diego Chargers,0
+2016,St. Louis Rams,1
+2016,Oakland Raiders,1
+2016,Denver Broncos,1
+2016,Cleveland Browns,1
+2016,Minnesota Vikings,0
+2016,Tennessee Titans,0
+2016,New England Patriots,1
+2016,Miami Dolphins,1
+2016,Green Bay Packers,0
+2016,Pittsburgh Steelers,0
+2016,Kansas City Chiefs,0
+2016,Buffalo Bills,0
+2016,New Orleans Saints,0
+2016,Jacksonville Jaguars,0
+2016,Houston Texans,1
+2016,Tampa Bay Buccaneers,1
+2016,Philadelphia Eagles,1
+2017,Carolina Panthers,1
+2017,Seattle Seahawks,1
+2017,New York Jets,0
+2017,Arizona Cardinals,1
+2017,New York Giants,0
+2017,Baltimore Ravens,1
+2017,San Francisco 49ers,1
+2017,Atlanta Falcons,0
+2017,Dallas Cowboys,1
+2017,Chicago Bears,1
+2017,Detroit Lions,1
+2017,Indianapolis Colts,1
+2017,Cincinnati Bengals,0
+2017,San Diego Chargers,1
+2017,St. Louis Rams,0
+2017,Oakland Raiders,1
+2017,Denver Broncos,0
+2017,Cleveland Browns,1
+2017,Minnesota Vikings,1
+2017,Tennessee Titans,1
+2017,New England Patriots,1
+2017,Miami Dolphins,1
+2017,Green Bay Packers,0
+2017,Pittsburgh Steelers,1
+2017,Kansas City Chiefs,1
+2017,Buffalo Bills,1
+2017,New Orleans Saints,1
+2017,Jacksonville Jaguars,1
+2017,Houston Texans,0
+2017,Tampa Bay Buccaneers,0
+2017,Philadelphia Eagles,0
+2018,Carolina Panthers,0
+2018,Seattle Seahawks,1
+2018,New York Jets,1
+2018,Arizona Cardinals,1
+2018,New York Giants,0
+2018,Baltimore Ravens,1
+2018,San Francisco 49ers,0
+2018,Atlanta Falcons,0
+2018,Dallas Cowboys,1
+2018,Chicago Bears,1
+2018,Detroit Lions,1
+2018,Indianapolis Colts,0
+2018,Cincinnati Bengals,1
+2018,San Diego Chargers,1
+2018,St. Louis Rams,1
+2018,Oakland Raiders,0
+2018,Denver Broncos,1
+2018,Cleveland Browns,0
+2018,Minnesota Vikings,1
+2018,Tennessee Titans,1
+2018,New England Patriots,1
+2018,Miami Dolphins,0
+2018,Green Bay Packers,1
+2018,Pittsburgh Steelers,1
+2018,Kansas City Chiefs,0
+2018,Buffalo Bills,0
+2018,New Orleans Saints,0
+2018,Jacksonville Jaguars,0
+2018,Houston Texans,1
+2018,Tampa Bay Buccaneers,1
+2018,Philadelphia Eagles,0
+2019,Carolina Panthers,1
+2019,Seattle Seahawks,0
+2019,New York Jets,0
+2019,Arizona Cardinals,0
+2019,New York Giants,0
+2019,Baltimore Ravens,0
+2019,San Francisco 49ers,0
+2019,Atlanta Falcons,0
+2019,Dallas Cowboys,1
+2019,Chicago Bears,0
+2019,Detroit Lions,0
+2019,Indianapolis Colts,0
+2019,Cincinnati Bengals,1
+2019,San Diego Chargers,0
+2019,St. Louis Rams,0
+2019,Oakland Raiders,0
+2019,Denver Broncos,1
+2019,Cleveland Browns,1
+2019,Minnesota Vikings,0
+2019,Tennessee Titans,1
+2019,New England Patriots,1
+2019,Miami Dolphins,0
+2019,Green Bay Packers,0
+2019,Pittsburgh Steelers,0
+2019,Kansas City Chiefs,1
+2019,Buffalo Bills,0
+2019,New Orleans Saints,0
+2019,Jacksonville Jaguars,0
+2019,Houston Texans,0
+2019,Tampa Bay Buccaneers,1
+2019,Philadelphia Eagles,1
+2020,Carolina Panthers,0
+2020,Seattle Seahawks,0
+2020,New York Jets,1
+2020,Arizona Cardinals,1
+2020,New York Giants,1
+2020,Baltimore Ravens,1
+2020,San Francisco 49ers,1
+2020,Atlanta Falcons,1
+2020,Dallas Cowboys,1
+2020,Chicago Bears,1
+2020,Detroit Lions,1
+2020,Indianapolis Colts,1
+2020,Cincinnati Bengals,1
+2020,San Diego Chargers,1
+2020,St. Louis Rams,1
+2020,Oakland Raiders,1
+2020,Denver Broncos,1
+2020,Cleveland Browns,1
+2020,Minnesota Vikings,0
+2020,Tennessee Titans,0
+2020,New England Patriots,0
+2020,Miami Dolphins,0
+2020,Green Bay Packers,0
+2020,Pittsburgh Steelers,1
+2020,Kansas City Chiefs,1
+2020,Buffalo Bills,0
+2020,New Orleans Saints,0
+2020,Jacksonville Jaguars,1
+2020,Houston Texans,0
+2020,Tampa Bay Buccaneers,0
+2020,Philadelphia Eagles,1
+2021,Carolina Panthers,0
+2021,Seattle Seahawks,1
+2021,New York Jets,0
+2021,Arizona Cardinals,0
+2021,New York Giants,0
+2021,Baltimore Ravens,1
+2021,San Francisco 49ers,0
+2021,Atlanta Falcons,0
+2021,Dallas Cowboys,1
+2021,Chicago Bears,1
+2021,Detroit Lions,1
+2021,Indianapolis Colts,0
+2021,Cincinnati Bengals,0
+2021,San Diego Chargers,0
+2021,St. Louis Rams,0
+2021,Oakland Raiders,0
+2021,Denver Broncos,1
+2021,Cleveland Browns,1
+2021,Minnesota Vikings,1
+2021,Tennessee Titans,0
+2021,New England Patriots,1
+2021,Miami Dolphins,1
+2021,Green Bay Packers,0
+2021,Pittsburgh Steelers,0
+2021,Kansas City Chiefs,1
+2021,Buffalo Bills,0
+2021,New Orleans Saints,0
+2021,Jacksonville Jaguars,1
+2021,Houston Texans,1
+2021,Tampa Bay Buccaneers,1
+2021,Philadelphia Eagles,0
+2022,Carolina Panthers,1
+2022,Seattle Seahawks,0
+2022,New York Jets,1
+2022,Arizona Cardinals,0
+2022,New York Giants,1
+2022,Baltimore Ravens,1
+2022,San Francisco 49ers,1
+2022,Atlanta Falcons,1
+2022,Dallas Cowboys,0
+2022,Chicago Bears,0
+2022,Detroit Lions,0
+2022,Indianapolis Colts,0
+2022,Cincinnati Bengals,1
+2022,San Diego Chargers,0
+2022,St. Louis Rams,1
+2022,Oakland Raiders,1
+2022,Denver Broncos,1
+2022,Cleveland Browns,1
+2022,Minnesota Vikings,1
+2022,Tennessee Titans,1
+2022,New England Patriots,0
+2022,Miami Dolphins,1
+2022,Green Bay Packers,0
+2022,Pittsburgh Steelers,0
+2022,Kansas City Chiefs,0
+2022,Buffalo Bills,0
+2022,New Orleans Saints,0
+2022,Washington Commanders,0
+2022,Jacksonville Jaguars,0
+2022,Houston Texans,1
+2022,Tampa Bay Buccaneers,1
+2022,Philadelphia Eagles,0
+2023,Carolina Panthers,0
+2023,Seattle Seahawks,0
+2023,New York Jets,1
+2023,Arizona Cardinals,0
+2023,New York Giants,0
+2023,Baltimore Ravens,1
+2023,San Francisco 49ers,1
+2023,Atlanta Falcons,1
+2023,Dallas Cowboys,1
+2023,Chicago Bears,0
+2023,Detroit Lions,0
+2023,Indianapolis Colts,1
+2023,Cincinnati Bengals,1
+2023,San Diego Chargers,0
+2023,St. Louis Rams,1
+2023,Oakland Raiders,1
+2023,Denver Broncos,1
+2023,Cleveland Browns,1
+2023,Minnesota Vikings,1
+2023,Tennessee Titans,0
+2023,New England Patriots,0
+2023,Miami Dolphins,1
+2023,Green Bay Packers,0
+2023,Washington Commanders,0
+2023,Pittsburgh Steelers,1
+2023,Kansas City Chiefs,0
+2023,Buffalo Bills,1
+2023,New Orleans Saints,1
+2023,Jacksonville Jaguars,1
+2023,Houston Texans,1
+2023,Tampa Bay Buccaneers,1
+2023,Philadelphia Eagles,1

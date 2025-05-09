@@ -1,4 +1,4 @@
-# Reports: Questions and Conclusions
+# Project Report:
 
-This report covers the 2 research questions we have been able to answer so far. It also adds the questions we still have that are unanswered and the challenges we have faced so far in our research so far. 
+This report gives an introduction of the project, a data explanation, an analysis of outputs, and a conclusion on our initial research questions we used our data to solve. This will give you a written in depth overview of everything we did and accomplished during this project.
 
