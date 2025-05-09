@@ -1,0 +1,40 @@
+| Field                  | Type    | Description                                         |
+| ---------------------- | ------- | --------------------------------------------------- |
+| `year`                 | int64   | The season year                                     |
+| `Rank`                 | int64   | Team ranking based on contracts or performance      |
+| `team`                 | object  | Team name                                           |
+| `All Contracts`        | int64   | Number of contracts signed by the team              |
+| `All Contract Values`  | object  | Total value of all contracts signed                 |
+| `wins`                 | int64   | Total games won in the season                       |
+| `losses`               | int64   | Total games lost in the season                      |
+| `win_loss_perc`        | float64 | Winning percentage (wins / total games)             |
+| `points`               | int64   | Total points scored by the team                     |
+| `points_opp`           | int64   | Total points allowed to opponents                   |
+| `points_diff`          | int64   | Difference between points scored and allowed        |
+| `g`                    | int64   | Number of games played                              |
+| `total_yards`          | int64   | Total offensive yards gained                        |
+| `plays_offense`        | int64   | Total offensive plays run                           |
+| `yds_per_play_offense` | float64 | Average yards gained per offensive play             |
+| `turnovers`            | int64   | Total turnovers committed                           |
+| `fumbles_lost`         | int64   | Number of fumbles lost                              |
+| `first_down`           | int64   | Total first downs earned                            |
+| `pass_cmp`             | int64   | Total completed passes                              |
+| `pass_att`             | int64   | Total pass attempts                                 |
+| `pass_yds`             | int64   | Total passing yards                                 |
+| `pass_td`              | int64   | Total passing touchdowns                            |
+| `pass_int`             | int64   | Total interceptions thrown                          |
+| `pass_net_yds_per_att` | float64 | Net passing yards per attempt                       |
+| `pass_fd`              | int64   | First downs gained via passing                      |
+| `rush_att`             | int64   | Total rushing attempts                              |
+| `rush_yds`             | int64   | Total rushing yards                                 |
+| `rush_td`              | int64   | Total rushing touchdowns                            |
+| `rush_yds_per_att`     | float64 | Average rushing yards per attempt                   |
+| `rush_fd`              | int64   | First downs gained via rushing                      |
+| `penalties`            | int64   | Total penalties committed                           |
+| `penalties_yds`        | int64   | Total yards lost due to penalties                   |
+| `pen_fd`               | int64   | First downs gained via penalties                    |
+| `score_pct`            | float64 | Percentage of offensive drives resulting in a score |
+| `turnover_pct`         | float64 | Percentage of offensive drives ending in a turnover |
+| `exp_pts_tot`          | float64 | Expected Points Contributed by Offense              |
+| `super_bowl_winner`    | int32   | Winner for This Season (1 = winner, 0 = not winner) |
+| `playoffs`             | int32   | Made playoffs this season (1 = did, 0 = didn't)     |
